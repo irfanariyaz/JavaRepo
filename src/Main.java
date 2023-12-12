@@ -9,7 +9,6 @@ public class Main {
         System.out.println("Hello and welcome!");
         System.out.println("added a new line");
         System.out.println("added a new line from new branch");
-        int b=10;
 
     }
 }
